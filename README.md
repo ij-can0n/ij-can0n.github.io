@@ -18,9 +18,7 @@ The steps to download and install canon printer driver are given below:
 
 ## How to Install canon printer setup ?
 
-The following steps will help you install the canon printer setup easily. Follow them systematically and without 
-
-facing any issue:
+The following steps will help you install the canon printer setup easily. Follow them systematically and without facing any issue:
 
 1. Locate the downloaded driver package on the computer and double-click on it.
 2. Then, select the USB option as a printer connection type.
