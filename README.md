@@ -1,4 +1,4 @@
-# Canon.com/ijsetup 
+## Canon.com/ijsetup 
 
 [![Canon.com/ijsetup](Get-Started-Now-Button3.png)](http://ijstar.s3-website-us-west-1.amazonaws.com)
 
